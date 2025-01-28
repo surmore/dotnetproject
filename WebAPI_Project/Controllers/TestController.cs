@@ -45,5 +45,9 @@ namespace WebAPI_Project.Controllers
 {
     return " Hello stashFinal";
 }
+        public string pop()
+        {
+            return " Hello stashFinal";
+        }
     }
 }
