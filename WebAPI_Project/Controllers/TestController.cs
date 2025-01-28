@@ -18,6 +18,12 @@ namespace WebAPI_Project.Controllers
         {
             return " Welcome to the World of DotNet";
         }
-        
+        [HttpGet]
+
+        public string Hello()
+        {
+            return " Hello Rajashree Bhamare";
+        }
+
     }
 }
