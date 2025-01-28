@@ -30,5 +30,10 @@ namespace WebAPI_Project.Controllers
     return "Bye From GitHub";
         }
 
+        public string stashFinal5()
+{
+    return " Hello stashFinal5";
+}
+
     }
 }
