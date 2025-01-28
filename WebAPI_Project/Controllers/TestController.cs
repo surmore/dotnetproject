@@ -25,5 +25,10 @@ namespace WebAPI_Project.Controllers
             return " Hello Rajashree Bhamare";
         }
 
+        public string FromGitHub()
+        {
+    return "Bye From GitHub";
+        }
+
     }
 }
