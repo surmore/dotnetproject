@@ -30,13 +30,5 @@ namespace WebAPI_Project.Controllers
     return "Bye From GitHub";
         }
 
-
- public string StashPractice1()
- {
-     return " Hello stash  11";
- }
-
-        
-
     }
 }
