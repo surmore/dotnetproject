@@ -10,7 +10,7 @@ namespace WebAPI_Project.Controllers
         [HttpGet]
         public string GetHello()
         {
-            return " Hello World ! ";
+            return " Hello World to DotNet Heaven ";
         }
     }
 }
