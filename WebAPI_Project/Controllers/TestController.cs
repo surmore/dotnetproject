@@ -35,5 +35,10 @@ namespace WebAPI_Project.Controllers
     return " Hello stashFinal5";
 }
 
+
+        public string stashFinal()
+        {
+            return " Hello stashFinal";
+        }
     }
 }
